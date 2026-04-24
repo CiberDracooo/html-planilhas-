@@ -1,0 +1,2 @@
+// ===== VARIÁVEIS GLOBAIS =====
+let dadosOriginais
